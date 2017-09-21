@@ -28,7 +28,7 @@ app.post('/contact/send', function(req,res){
     service: 'Gmail',
     auth: {
       user: 'jason.lazzuri@gmail.com',
-      pass: '1Lovemymac'
+      pass: ''
     }
   });
 
